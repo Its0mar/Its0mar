@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Blog Project](https://github.com/Its0mar/ZeroWebRepo)
 
-- 🌱 I’m currently learning **more topics in ASP.NET Core, and learn more about algorithims**
+- 🌱 I’m currently learning **more topics in ASP.NET Core and algorithims**
 
 - 📫 How to reach me (Discord) **Its0mar**
 
