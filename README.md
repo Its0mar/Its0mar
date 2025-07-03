@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Jadallah</h1>
 <h3 align="center">backend developer .Net Core Framework</h3>
 
-- 🔭 I’m currently working on [Blog Project](https://github.com/Its0mar/blogFullStack/)
+- 🔭 I’m currently working on [WorkFOund Project](https://github.com/Its0mar/WorkFound/)
 
 - 🌱 I’m currently learning **more topics in ASP.NET Core and algorithims**
 
